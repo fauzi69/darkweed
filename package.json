@@ -1,0 +1,22 @@
+{
+  "name": "darkweed",
+  "version": "1.0.0",
+  "description": "di coba test dulu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fauzi69/darkweed.git"
+  },
+  "author": "fauzi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fauzi69/darkweed/issues"
+  },
+  "homepage": "https://github.com/fauzi69/darkweed#readme",
+  "dependencies": {
+    "validator": "^13.11.0"
+  }
+}
